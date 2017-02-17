@@ -8,7 +8,7 @@ import com.nathanfei.laststand.framework.GameView;
 
 public class Shooter extends GameObject {
 
-    int shotCounts;
+    private int shotCounts;
 
     public Shooter(int x, int y) {
         super(x, y);
@@ -19,10 +19,9 @@ public class Shooter extends GameObject {
 
     @Override
     public void tick() {
+        if (shotCounts % 10 == 0)
+            GameView.getObjHandler().addObject(new Bullet(x, y - height/2));
         shotCounts++;
-        System.out.println(x + " " + y);
-        if (shotCounts % 3 == 0)
-            GameView.getObjHandler().addObject(new Bullet(x, y - height));
     }
 
     @Override

@@ -31,6 +31,8 @@ public class ObjHandler {
         for (GameObject object : toRemove) {
             listOfObjects.remove(object);
         }
+        toAdd.clear();
+        toRemove.clear();
     }
 
     public void render(Canvas canvas) {

@@ -1,7 +1,4 @@
-#Thu Feb 09 10:52:14 EST 2017
-base.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e998c626406e5a96ff5e6c51722336b8cd911a3
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69eac00ba10e7bba13ede53ef864834a21fb6abf\\classes.dex
-base.1=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_69eac00ba10e7bba13ede53ef864834a21fb6abf
-file.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_6e998c626406e5a96ff5e6c51722336b8cd911a3\\classes.dex
+#Fri Feb 17 09:58:13 EST 2017
+base.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

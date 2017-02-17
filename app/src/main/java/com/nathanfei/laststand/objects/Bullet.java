@@ -14,7 +14,7 @@ public class Bullet extends GameObject {
 
     @Override
     public void tick() {
-        y -= 30;
+        y -= 20;
         if (y < 0) {
             remove();
         }

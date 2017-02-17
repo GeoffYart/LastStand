@@ -39,7 +39,7 @@ public abstract class GameObject {
         return new Rect(x - width / 2, y - height / 2, x + width / 2, y + height / 2);
     }
 
-     public void remove() {
+    public void remove() {
          GameView.getObjHandler().removeObject(this);
      }
 }
