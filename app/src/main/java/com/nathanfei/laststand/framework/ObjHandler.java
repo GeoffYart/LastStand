@@ -2,6 +2,8 @@ package com.nathanfei.laststand.framework;
 
 import android.graphics.Canvas;
 
+import com.nathanfei.laststand.objects.Button;
+
 import java.util.LinkedList;
 
 public class ObjHandler {
@@ -21,6 +23,10 @@ public class ObjHandler {
         return listOfObjects;
     }
 
+    public int getSize() {
+        return listOfObjects.size();
+    }
+
     public void tick() {
         for (GameObject object : listOfObjects) {
             object.tick();
@@ -33,6 +39,7 @@ public class ObjHandler {
         }
         toAdd.clear();
         toRemove.clear();
+        System.out.println(listOfObjects.size());
     }
 
     public void render(Canvas canvas) {
@@ -48,4 +55,5 @@ public class ObjHandler {
     public void removeObject(GameObject object) {
         toRemove.add(object);
     }
+
 }

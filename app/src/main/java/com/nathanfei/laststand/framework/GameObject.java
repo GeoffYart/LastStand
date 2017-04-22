@@ -6,11 +6,11 @@ import android.graphics.Rect;
 
 public abstract class GameObject {
 
-    protected int x, y;
-    protected int width, height;
+    protected double x, y;
+    protected double width, height;
     protected Paint paint;
 
-    public GameObject (int x, int y) {
+    public GameObject (double x, double y) {
         this.x = x;
         this.y = y;
         paint = new Paint();
@@ -19,27 +19,47 @@ public abstract class GameObject {
     public abstract void tick();
     public abstract void render(Canvas canvas);
 
-    public int getX() {
+    public double getWidth() {
+        return width;
+    }
+
+    public double getHeight() {
+        return height;
+    }
+
+    public double getX() {
         return x;
     }
 
-    public void setX(int x) {
+    public void setX(double x) {
         this.x = x;
     }
 
-    public int getY() {
+    public void setX(int x) {
+        this.x = x / MainActivity.screenWidth();
+    }
+
+    public double getY() {
         return y;
     }
 
-    public void setY(int y) {
+    public void setY(double y) {
         this.y = y;
     }
 
-    public Rect getRect() {
-        return new Rect(x - width / 2, y - height / 2, x + width / 2, y + height / 2);
+    public void setY(int y) {
+        this.y = y / MainActivity.screenHeight();
     }
 
-    public void remove() {
+    public Rect getRect() {
+        return new Rect(
+                (int)((x - width / 2) * MainActivity.screenWidth()),
+                (int)((y - height / 2) * MainActivity.screenHeight()),
+                (int)((x + width / 2) * MainActivity.screenWidth()),
+                (int)((y + height / 2) * MainActivity.screenHeight()));
+    }
+
+    protected void remove() {
          GameView.getObjHandler().removeObject(this);
-     }
+    }
 }
