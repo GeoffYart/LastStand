@@ -9,6 +9,8 @@ import android.view.SurfaceView;
 import com.nathanfei.laststand.objects.Button;
 import com.nathanfei.laststand.objects.Shooter;
 
+import java.io.File;
+
 public class GameView extends SurfaceView implements SurfaceHolder.Callback, Runnable {
 
     public static final int MAX_FPS = 30;
@@ -17,6 +19,7 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback, Run
     private boolean running = false;
     private SurfaceHolder holder;
     private static GameState gameState = GameState.Menu;
+    public File saveFile;
 
     private static ObjHandler objHandler, menuHandler, gameplayHandler, gameOverHandler;
 
@@ -26,6 +29,7 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback, Run
 
     public GameView(Context context) {
         super(context);
+        this.saveFile = new File(context.getFilesDir(), "lastStand.sav");
         holder = getHolder();
         holder.addCallback(this);
         setFocusable(true);
@@ -34,13 +38,18 @@ public class GameView extends SurfaceView implements SurfaceHolder.Callback, Run
 
         menuHandler = new ObjHandler(new Button(0.5, 0.2, 0.8, 0.2, "PLAY", GameState.GamePlay),
                 new Button(0.5, 0.7, 0.8, 0.2, "QUIT", GameState.Quit));
-        gameplayHandler = new ObjHandler(new Button(0.90, 0.05, 0.2, 0.05, "MENU", GameState.Menu),
+        gameplayHandler = new ObjHandler(new Button(0.9, 0.03, 0.2, 0.06, "MENU", GameState.Menu),
                 new Shooter(0.5, 0.95));
         gameOverHandler = new ObjHandler(new Button(0.5, 0.075, 1, 0.15, "GAME", GameState.GameOver),
                 new Button(0.5, 0.225, 1, 0.15, "OVER", GameState.GameOver),
                 new Button(0.5, 0.7, 0.8, 0.2, "MENú", GameState.Menu));
 
         setHandler();
+    }
+
+    public static void resetGameplayHandler() {
+        gameplayHandler = new ObjHandler(new Button(0.90, 0.05, 0.2, 0.05, "MENU", GameState.Menu),
+                new Shooter(0.5, 0.95));
     }
 
     private static void setHandler() {

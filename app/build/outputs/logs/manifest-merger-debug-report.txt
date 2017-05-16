@@ -15,15 +15,15 @@ ADDED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\Andro
 		INJECTED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml
 application
 ADDED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml:5:5-18:19
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\.android\build-cache\bb32d35d266966faed2da53208a115c2a693df66\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathanfei\.android\build-cache\05f6bd8248fae382a649ec37229803a581fbd98e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathanfei\.android\build-cache\539b7c12da89196229f673bd767b115d71fcee06\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathanfei\.android\build-cache\5bfcfd8177886ef66806eca398469ed243a68ba9\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathanfei\.android\build-cache\addf54709828e86a422d03529be9e57567196375\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathanfei\.android\build-cache\26101b5e1af99eb75e3951b145963ce0b06bb895\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathanfei\.android\build-cache\78a390e5efc6d5ac768c719c43e37af986cc4d26\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathanfei\.android\build-cache\00ea88ef704a36ce395d7d09f9cf46a44562cba0\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathanfei\.android\build-cache\42eb2ba958c2c8717424eac57faa669547cd2ef0\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -50,17 +50,17 @@ ADDED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\Andro
 		ADDED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml:15:27-74
 uses-sdk
 INJECTED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\.android\build-cache\bb32d35d266966faed2da53208a115c2a693df66\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\nathanfei\.android\build-cache\05f6bd8248fae382a649ec37229803a581fbd98e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\nathanfei\.android\build-cache\539b7c12da89196229f673bd767b115d71fcee06\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\nathanfei\.android\build-cache\5bfcfd8177886ef66806eca398469ed243a68ba9\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\nathanfei\.android\build-cache\addf54709828e86a422d03529be9e57567196375\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\nathanfei\.android\build-cache\26101b5e1af99eb75e3951b145963ce0b06bb895\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\nathanfei\.android\build-cache\78a390e5efc6d5ac768c719c43e37af986cc4d26\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\nathanfei\.android\build-cache\00ea88ef704a36ce395d7d09f9cf46a44562cba0\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\nathanfei\.android\build-cache\42eb2ba958c2c8717424eac57faa669547cd2ef0\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\nathanfei\.android\build-cache\bb32d35d266966faed2da53208a115c2a693df66\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		INJECTED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\src\main\AndroidManifest.xml

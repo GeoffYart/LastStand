@@ -1,0 +1,4 @@
+#Tue May 09 10:32:40 EDT 2017
+base.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=C\:\\Users\\nathanfei\\AndroidStudioProjects\\LastStand\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

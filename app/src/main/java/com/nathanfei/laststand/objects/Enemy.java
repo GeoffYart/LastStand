@@ -5,28 +5,32 @@ import android.graphics.Color;
 import android.graphics.Point;
 
 import com.nathanfei.laststand.framework.GameObject;
+import com.nathanfei.laststand.framework.GameView;
 
 public class Enemy extends GameObject {
 
-    private int level;
     private int health;
 
     public Enemy(double x, double y, int level) {
         super(x, y);
-        this.level = level;
         health = setHealth(level);
         width = 0.16;
         height = 0.09;
     }
 
     private int setHealth(int level) {
-        return level * 4;
+        return level * 4 + 1;
     }
 
     @Override
     public void tick() {
         y += 0.005;
         if (y > 1 + height / 2) {
+            for(GameObject obj : GameView.getObjHandler().list()) {
+                if (obj instanceof Shooter) {
+                    ((Shooter)obj).hit(health);
+                }
+            }
             remove();
         }
     }

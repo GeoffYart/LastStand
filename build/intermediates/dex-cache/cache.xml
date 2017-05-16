@@ -3,111 +3,201 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="true"
+        jar="C:\Users\nathanfei\.android\build-cache\bb32d35d266966faed2da53208a115c2a693df66\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_128649e997bb929e63527b9932672fb81b5eb430.jar" />
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_08e1798dd2bfc423012edbd636af7a1791d62f2b.jar" />
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\5bfcfd8177886ef66806eca398469ed243a68ba9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_a490caec974ce829943c7ee9d9c68cbd8d1f9e0b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\5bfcfd8177886ef66806eca398469ed243a68ba9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a490caec974ce829943c7ee9d9c68cbd8d1f9e0b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="dec6433c0c52dee7a3e31bf5450bd219d790a543">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\instant-run_6e998c626406e5a96ff5e6c51722336b8cd911a3.jar" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6e998c626406e5a96ff5e6c51722336b8cd911a3\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jar="C:\Users\nathanfei\.android\build-cache\05f6bd8248fae382a649ec37229803a581fbd98e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_7676a90cc285385ac1c9b235d7e9bb6831a5e8ea.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\05f6bd8248fae382a649ec37229803a581fbd98e\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_b4d1a2099d88e3576611b100a845a0968d2be876.jar" />
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7676a90cc285385ac1c9b235d7e9bb6831a5e8ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\addf54709828e86a422d03529be9e57567196375\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba3c30a87a22432d6c2239b0dc4b17f7b1fd471b\classes.dex" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jar="C:\Users\nathanfei\.android\build-cache\26101b5e1af99eb75e3951b145963ce0b06bb895\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_979f6741c6ce33d751573ae82b9e5eb34e7f2744.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\42eb2ba958c2c8717424eac57faa669547cd2ef0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_70764e37ac0347cb971ffe8d9f0212b2504d3a6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\78a390e5efc6d5ac768c719c43e37af986cc4d26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_3382d4bc53241ec6c70bb76c1860eb4874ef6e48.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\bb32d35d266966faed2da53208a115c2a693df66\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_3341e40813127472b5106382324413ce922b0971.jar" />
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_08e1798dd2bfc423012edbd636af7a1791d62f2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\00ea88ef704a36ce395d7d09f9cf46a44562cba0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_b5cc8b8ce37683d1d73ddf904d7d5364959bd456.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\78a390e5efc6d5ac768c719c43e37af986cc4d26\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3382d4bc53241ec6c70bb76c1860eb4874ef6e48\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\539b7c12da89196229f673bd767b115d71fcee06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_7b0adfe2ea0f88887139ea1ca697ea28e4473a04.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\539b7c12da89196229f673bd767b115d71fcee06\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b0adfe2ea0f88887139ea1ca697ea28e4473a04\classes.dex" />
     </item>
     <item
         is-multidex="false"
         jar="C:\Users\nathanfei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
         <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_18153b440466043a1533cb359370ebdbb9f28f1f.jar" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\00ea88ef704a36ce395d7d09f9cf46a44562cba0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_544aa485cf588d2c476736a9b74b89696c5a8c7e.jar" />
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b5cc8b8ce37683d1d73ddf904d7d5364959bd456\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\26101b5e1af99eb75e3951b145963ce0b06bb895\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_32686c93289c1d449735fdaff6083a4d267bb478.jar" />
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_979f6741c6ce33d751573ae82b9e5eb34e7f2744\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_55110f63c66eaa113b951bac7d7ad143fc67cc5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="db236fe3aa99ade8891a75ac7896e860bb8d0c1e">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_69eac00ba10e7bba13ede53ef864834a21fb6abf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_57f8fbd5d5127307241a61c7530f40c5f035ac06.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_ac32d0862c4e5b970b8fc454beebb5a12ccfc2ea.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        is-multidex="true"
+        jar="C:\Users\nathanfei\.android\build-cache\42eb2ba958c2c8717424eac57faa669547cd2ef0\output\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_b225da2d790db9fb548893b25a3df691d3d1282a.jar" />
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_70764e37ac0347cb971ffe8d9f0212b2504d3a6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\nathanfei\.android\build-cache\addf54709828e86a422d03529be9e57567196375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\pre-dexed\debug\classes_ba3c30a87a22432d6c2239b0dc4b17f7b1fd471b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_18153b440466043a1533cb359370ebdbb9f28f1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="84a3189a3e059d21022eba5a6721eeb03def42aa">
+        <dex dex="C:\Users\nathanfei\AndroidStudioProjects\LastStand\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_69eac00ba10e7bba13ede53ef864834a21fb6abf\classes.dex" />
     </item>
 
 </items>
